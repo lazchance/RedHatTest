@@ -8,7 +8,7 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 |Platform   |Options   |
 |---|---|
 | Operating System:  | Ubuntu 16.04 and 18.04  |
-|   | Debian 7, 8 and 9;  |
+|   | Debian 7, 8 and 9  |
 |   | SUSE Linux Enterprise Server 12 with SP1, SP2 and SP3  |
 |   | Red Hat Enterprise Linux/Centos 6.9, 7.3, 7.4, and 7.5  |
 |   | Fedora 27, 28 and 29  |
