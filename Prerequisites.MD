@@ -13,16 +13,15 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 |   | Red Hat Enterprise Linux/Centos 6.9, 7.3, 7.4, and 7.5  |
 |   | Fedora 27, 28 and 29  |
 |   |  openSUSE Leap 42.3 and 15 |
-|  Database:  |Options:   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|  Database:  |MySQL or MariaDB 5.5+ |
+|   |  Oracle 11g |
+|   | PostgreSQL 9 (versions 10 and above are not yet supported)  |
+|   | SQLite  |
+| Web Server  | Apache 2.4 with prefork and mod_php  |
+|PHP Runtime   |  7.0 |
+|   |  7.1 |
+|   |  7.2 |
+
 
 **Mobile OS:**
 * iOS 9.0+
