@@ -24,7 +24,7 @@ Server:
 |   |   |
 |   |   |
 
-Mobile OS:
+*Mobile OS:*
 * iOS 9.0+
 * Android 4.0+
 
