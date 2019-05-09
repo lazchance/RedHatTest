@@ -3,24 +3,45 @@ System Requirements
 
 For best performance, stability, support, and full functionality, Red Hat recommends the following:
 
-Mobile
+Server:
+
+|Platform:   |Options:   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+
+Mobile OS:
 * iOS 9.0+
 * Android 4.0+
 
-Web Browser
+Web Browsers:
 * Edge (current version on Windows 10)
 * IE11+ (except Compatibility Mode)
 * Firefox 57+ or 52 ESR
 * Chrome 66+
 * Safari 10+
 
-Hypervisors
+Hypervisors:
 * Hyper-V
 * VMware ESX
 * Xen
 * KVM
 
-Desktop Operating Systems:
+Desktop OS:
 * Windows 7+
 * Mac OS X 10.7+ (64-bit only)
 * CentOS 6 & 7 (64-bit only)
