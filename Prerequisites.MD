@@ -5,9 +5,9 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 
 **Server:**
 
-|Platform:   |Options:   |
+|Platform   |Options   |
 |---|---|
-| Operating System  | Ubuntu 16.04 and 18.04  |
+| Operating System:  | Ubuntu 16.04 and 18.04  |
 |   | Debian 7, 8 and 9;  |
 |   | SUSE Linux Enterprise Server 12 with SP1, SP2 and SP3  |
 |   | Red Hat Enterprise Linux/Centos 6.9, 7.3, 7.4, and 7.5  |
@@ -17,8 +17,8 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 |   |  Oracle 11g |
 |   | PostgreSQL 9 (versions 10 and above are not yet supported)  |
 |   | SQLite  |
-| Web Server  | Apache 2.4 with prefork and mod_php  |
-|PHP Runtime   |  7.0 |
+| Web Server:  | Apache 2.4 with prefork and mod_php  |
+|PHP Runtime:   |  7.0 |
 |   |  7.1 |
 |   |  7.2 |
 
