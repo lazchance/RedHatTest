@@ -1,3 +1,6 @@
+Install an ownCloud server
+====================
+
 Before you begin: 
 ---------------------
 Install one of the recommended hypervisors locally, or prepare a local virtual machine.
@@ -18,3 +21,7 @@ Install one of the recommended hypervisors locally, or prepare a local virtual m
 8. Once the installation package is imported, run the package.
 
 >The ownCloud X Server is now ready to be configured on your hypervisor or virtual machine.
+
+### Up next
+
+[Configure an ownCloud server](content/Configure_an_ownCloud_server.html).
