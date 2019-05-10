@@ -1,3 +1,6 @@
+Log in to an ownCloud server
+====================
+
 Before you begin: 
 ---------------------
 
