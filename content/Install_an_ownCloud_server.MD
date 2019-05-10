@@ -24,4 +24,4 @@ Install one of the recommended hypervisors locally, or prepare a local virtual m
 
 ### Up next
 
-[Configure an ownCloud server](content/Configure_an_ownCloud_server.html).
+[Configure an ownCloud server](Configure_an_ownCloud_server.html).
