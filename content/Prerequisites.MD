@@ -48,3 +48,7 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 * Fedora 27 & 28
 * Ubuntu 16.04 & 18.04
 * openSUSE Leap 42.2 & 42.3
+
+### Up next
+
+[Install an ownCloud server](content/Install_an_ownCloud_server.html)
