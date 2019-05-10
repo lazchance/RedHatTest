@@ -14,4 +14,4 @@ Create a quickstart for installing an ownCloud server and connecting to it as a 
 
 ### Up next
 
-Read the [prerequisites](/prerequisites.html).
+Read the [Prerequisites](content/Prerequisites.html)
