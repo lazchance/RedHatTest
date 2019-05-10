@@ -51,4 +51,4 @@ For best performance, stability, support, and full functionality, Red Hat recomm
 
 ### Up next
 
-[Install an ownCloud server](content/Install_an_ownCloud_server.html).
+[Install an ownCloud server](/Install_an_ownCloud_server.html).
