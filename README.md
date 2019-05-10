@@ -6,5 +6,5 @@
 4. [Configure an ownCloud server](content/Configure_an_ownCloud_server.html)
 5. [Log in to an ownCloud server](content/Log_in_to_an_ownCloud_server.html)
 6. [Add a user account in ownCloud](content/Add_a_user_account_in_ownCloud.html)
-7. [Log to an ownCloud server using the desktop client](content/Log_to_an_ownCloud_server_using_the_desktop_client.html)
-8. [Log to an ownCloud server using the Android app](content/Log_to_an_ownCloud_server_using_the_Android_app.html)
+7. [Log in to an ownCloud server using the desktop client](content/Log_in_to_an_ownCloud_server_using_the_desktop_client.html)
+8. [Log in to an ownCloud server using the Android app](content/Log_in_to_an_ownCloud_server_using_the_Android_app.html)
