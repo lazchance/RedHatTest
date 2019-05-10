@@ -31,4 +31,4 @@ You must have the ownCloud web server installed before you can configure it.
 
 ### Up next
 
-[Log in to an ownCloud server](content/Log_in_to_an_ownCloud_server.html).
+[Log in to an ownCloud server](Log_in_to_an_ownCloud_server.html).
