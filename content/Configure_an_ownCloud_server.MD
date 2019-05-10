@@ -7,15 +7,9 @@ You must have the ownCloud web server installed before you can configure it.
 
 1. In your hypervisor or virtual machine, run the imported ownCloud installation installation package.
 2. Select **Start ownCloud**.
-
->The ownCloud configuration wizard is displayed.
-
 3. In the **Choose your language** drop-down, select a language to do the configuration.
 4. In **Enter a city nearby..** enter the nearest major city, then click **Next**. 
 5. Check the **Obtain IP address automatically (DHCP)** box to receive an IP address for your server, then click **Next**.
-
->Note the IP address and Gateway.
-
 6. (Optional) If an **Untrusted Certificate** window displays, check the **Trust this certificate anyway** check box, then click **Ok** to continue.
 7. Check **Manage users and permissions directly on this system**, then click **Next**.
 8. In **Organization Name**, enter the name of your organization.
@@ -27,7 +21,7 @@ You must have the ownCloud web server installed before you can configure it.
 14. Review the settings you configured, then click **Configure System**
 15. Click **Finish**.
 
-> The configured system is ready for use. Note that if you are configuring the system for the first time, you will be asked to upload a new license, which was sent to the email address you entered.
+The configured system is ready for use. Note that if you are configuring the system for the first time, you will be asked to upload a new license, which was sent to the email address you entered.
 
 ### Up next
 
