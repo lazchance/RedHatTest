@@ -8,7 +8,7 @@ Log in to an ownCloud server using the Android app
 5. In **Password**, enter your password, then click **Connect**.
 6. You are logged in to the server you entered.
 
-If you do not know the URL of the server you want to connect to, contact your system administrator
+If you do not know the URL of the server you want to connect to, contact your system administrator.
 
 If you do not know your username and password, contact your system administrator.
 
