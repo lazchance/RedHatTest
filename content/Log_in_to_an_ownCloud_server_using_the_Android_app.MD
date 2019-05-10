@@ -14,4 +14,4 @@ If you do not know your username and password, contact your system administrator
 
 ### Up next
 
-Return to the [Introduction](Introduction.html)
+Return to the [Introduction](Introduction.html).
