@@ -10,4 +10,4 @@ Create a quickstart for installing an ownCloud server and connecting to it as a 
 
 ### Up next
 
-Read the [Prerequisites](https://lazchance.github.io/content/Prerequisites.html).
+Read the [Prerequisites](Prerequisites.html).
