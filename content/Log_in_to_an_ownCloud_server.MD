@@ -19,4 +19,4 @@ Your ownCloud server must be installed, configured, and running on a hypervisor 
 
 ### Up next
 
-[Add a user account in ownCloud](Add_a_user_account_in_ownCloud.html)
+[Add a user account in ownCloud](Add_a_user_account_in_ownCloud.html).
