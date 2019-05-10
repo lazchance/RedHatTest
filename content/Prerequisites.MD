@@ -1,4 +1,4 @@
-System Requirements
+Prerequisites
 ====================
 
 For best performance, stability, support, and full functionality, Red Hat recommends the following:
