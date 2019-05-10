@@ -1,3 +1,6 @@
+Configure an ownCloud server
+====================
+
 Before you begin: 
 ---------------------
 You must have the ownCloud web server installed before you can configure it.
@@ -25,3 +28,7 @@ You must have the ownCloud web server installed before you can configure it.
 15. Click **Finish**.
 
 > The configured system is ready for use. Note that if you are configuring the system for the first time, you will be asked to upload a new license, which was sent to the email address you entered.
+
+### Up next
+
+[Log in to an ownCloud server](content/Log_in_to_an_ownCloud_server.html).
