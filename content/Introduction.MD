@@ -1,9 +1,5 @@
----
-layout: page
-title: Introduction
-description: Introduction for configuring an ownCloud server
-author: Lazarus Jackson
----
+Introduction
+====================
 
 Create a quickstart for installing an ownCloud server and connecting to it as a client. Your quickstart must address the following user stories:
 
@@ -14,4 +10,4 @@ Create a quickstart for installing an ownCloud server and connecting to it as a 
 
 ### Up next
 
-Read the [Prerequisites](content/Prerequisites.html)
+Read the [Prerequisites](content/Prerequisites.html).
