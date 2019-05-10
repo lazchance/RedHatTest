@@ -1,3 +1,6 @@
+Log in to an ownCloud server using the desktop client
+====================
+
 Before you begin: 
 ---------------------
 
