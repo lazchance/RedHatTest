@@ -21,3 +21,7 @@ You must download the appropriate version of the [ownCloud desktop client](https
 > It is recommended that you check the **Sync everything from server** radio button.
 
 6. You are logged in to the server you entered, and the files you chose to sync to the server are present.
+
+### Up next
+
+[Log in to an ownCloud server using the Android app](Log_in_to_an_ownCloud_server_using_the_Android_app.html).
