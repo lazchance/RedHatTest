@@ -16,3 +16,7 @@ Your ownCloud server must be installed, configured, and running on a hypervisor 
 > This password was established during server configuration.
 
 4. You, as an administrator, are logged in to the ownCloud server.
+
+### Up next
+
+[Add a user account in ownCloud](Add_a_user_account_in_ownCloud.html)
