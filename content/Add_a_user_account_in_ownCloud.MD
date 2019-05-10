@@ -16,3 +16,7 @@ You must be logged in to ownCloud as an administrator to create a user account.
 > Users, once logged in to their accounts, can change their passwords.
 
 You can change the group assignments of users by clicking the **Groups** drop-down. You can delete user accounts by clicking the Trash icon that displays when you mouse over user accounts.
+
+### Up next
+
+[Log in to an ownCloud server using the desktop client](Log_in_to_an_ownCloud_server_using_the_desktop_client.html).
