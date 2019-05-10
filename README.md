@@ -1,7 +1,7 @@
 # Table of Contents
 
 1. [Introduction](content/Introduction.html)
-2. [Prerequisistes](content/Prerequisistes.html)
+2. [Prerequisites](content/Prerequisites.html)
 3. [Install an ownCloud server](content/Install_an_ownCloud_server.html)
 4. [Configure an ownCloud server](content/Configure_an_ownCloud_server.html)
 5. [Log in to an ownCloud server](content/Log_in_to_an_ownCloud_server.html)
