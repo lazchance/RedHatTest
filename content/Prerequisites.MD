@@ -1,7 +1,7 @@
 Prerequisites
 ====================
 
-For best performance, stability, support, and full functionality, Red Hat recommends the following:
+For the best performance, stability, support, and full functionality, the following is recommended:
 
 **Server:**
 
